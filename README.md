@@ -84,4 +84,4 @@ To collect more information on an issue, please change `LOG_LEVEL` to `debug`.
 
 Use this script at your own risk.
 
-Created by Chris
+Created by Christop Tan
